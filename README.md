@@ -1,5 +1,9 @@
 # 📅 Austin Event Crawler & Google Calendar Sync Engine
 
+<p align="center">
+  <img src="assets/icon.png" width="140" alt="Austin Event Crawler Icon" />
+</p>
+
 [![Python](https://img.shields.io/badge/Python-3.13-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Google Calendar API](https://img.shields.io/badge/API-Google%20Calendar%20v3-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://developers.google.com/calendar)
 [![Reddit PRAW](https://img.shields.io/badge/Scraper-Reddit%20PRAW-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://praw.readthedocs.io)
